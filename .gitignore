@@ -6,8 +6,6 @@ out/
 # Файлы IntelliJ IDEA
 .idea/
 *.iml
-*.iws
-*.ipr
 
 ### Eclipse ###
 .apt_generated
